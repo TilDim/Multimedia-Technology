@@ -1,5 +1,7 @@
 # Multimedia-Technology-Project
 
+demos link.txt --> Demos download link
+
 motion.sh --> Bash script which codes the motion.avi video
 
 motion_video_properties --> File containing the properties of all the coded instances of the motion.avi video
